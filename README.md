@@ -266,7 +266,3 @@ Gdzie:
 - `*`: Oświetlona komórka
 - `#`: Czarna komórka bez liczby
 - `1`, `2`, itd.: Czarna komórka z liczbą
-
-## Licencja
-
-Ten projekt jest udostępniony na licencji MIT - szczegóły znajdują się w pliku LICENSE.
