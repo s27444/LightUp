@@ -44,7 +44,7 @@ LightUp/
 
 1. Sklonuj repozytorium:
 ```
-git clone https://github.com/yourusername/LightUp.git
+git clone https://github.com/s27444/LightUp.git
 cd LightUp
 ```
 
